@@ -1,0 +1,7 @@
+C:\Users\lau_9\Documents\Ingeniería en Sistemas de Información\Taller .NET MVC\Ejercicio 1\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.csprojResolveAssemblyReference.cache
+C:\Users\lau_9\Documents\Ingeniería en Sistemas de Información\Taller .NET MVC\Ejercicio 1\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\lau_9\Documents\Ingeniería en Sistemas de Información\Taller .NET MVC\Ejercicio 1\Ejercicio 1\Ejercicio 1\bin\Debug\Ejercicio 1.exe.config
+C:\Users\lau_9\Documents\Ingeniería en Sistemas de Información\Taller .NET MVC\Ejercicio 1\Ejercicio 1\Ejercicio 1\bin\Debug\Ejercicio 1.exe
+C:\Users\lau_9\Documents\Ingeniería en Sistemas de Información\Taller .NET MVC\Ejercicio 1\Ejercicio 1\Ejercicio 1\bin\Debug\Ejercicio 1.pdb
+C:\Users\lau_9\Documents\Ingeniería en Sistemas de Información\Taller .NET MVC\Ejercicio 1\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.exe
+C:\Users\lau_9\Documents\Ingeniería en Sistemas de Información\Taller .NET MVC\Ejercicio 1\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.pdb
