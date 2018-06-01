@@ -6,11 +6,11 @@
  *  - En vez de utilizar Strings para las fechas, usar DateTime y ordenar cronologicamente para que los movimientos se realicen
  *    de manera acorde a la fecha en los que son realizados (p. ej: las transferencias solo pueden ser para fechas futuras).
  *  - Representar los numeros de telefono como uint en vez de int.
- *  - Hacer uso de structs. Implementar properties.
+ *  - Hacer uso de structs. Implementar properties. LISTO
  *  - Sobrecargar metodos para distintos tipos de datos en ciertos campos (p. ej: que los montos puedan ser ingresados como int).
- *  - Revisar atributos que no se inicializan en constructores, ya que luego quedan como "null".
- *  - Ver como crear clases "constantes".
- *  - Diferenciar de Persona Fisica y Juridica.
+ *  - Revisar atributos que no se inicializan en constructores, ya que luego quedan como "null". LISTO
+ *  - Ver como crear clases "constantes". LISTO
+ *  - Diferenciar de Persona Fisica y Juridica. LISTO
  *  - Domicilio como clase.
  *  - Revisar los sealed.
  *  - Ver ANNOTATIONS.
